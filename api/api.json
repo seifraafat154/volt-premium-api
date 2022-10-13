@@ -1,7 +1,5 @@
 {
-	"data": [
-		{
-			"home_page_url": "https://zeus-chk-1.herokuapp.com/app/home/"
-		}
-	]
+  "app_info": {
+    "home_page_url": "https://zeus-chk-1.herokuapp.com/app/home/"
+  }
 }
